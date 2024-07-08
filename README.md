@@ -35,6 +35,7 @@ o	The system clearly indicates the status of each invoice (e.g., pending, cleare
 o	Users can easily see whether a bill has been paid or is still outstanding.
 
 7.	Mark as Done:
+
 o	Once an invoice is paid, users can mark it as cleared by clicking the "Mark Done" button.
 
 o	This updates the status of the invoice and removes it from the pending list, ensuring accurate and up-to-date records.
