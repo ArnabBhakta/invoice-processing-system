@@ -64,6 +64,7 @@ Technologies Used:
 Database:-
 
 Technology Used:
+
 •	MySQL: The application relies on MySQL, a robust and widely-used relational database management system. MySQL was chosen for its reliability, performance, and ease of use. It effectively handles the storage, retrieval, and management of invoice data.
 ![Screenshot 2024-07-08 115718](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/ada4de98-5ecd-4bad-b20a-af2d1c9cfb19)
 
