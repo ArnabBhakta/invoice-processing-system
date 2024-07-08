@@ -6,6 +6,7 @@ Developed by - Name:- Arnab Kumar Bhakta , Dept:- B.Tech CSE, Class Roll :- 002-
 ##Project Description: Invoice Processing System
 
 Overview:
+
 The Invoice Processing System is a sophisticated application designed to automate and streamline the management of invoices. This system enables users to track pending invoices, manage vendor information, and keep detailed records of purchased products, amounts, and payment statuses.
 Key Functionalities:-
 
@@ -46,6 +47,7 @@ o	This updates the status of the invoice and removes it from the pending list, e
 
 
 Frontend:-
+
 Technologies Used:
 •	ReactJS: The frontend was built using ReactJS, a popular JavaScript library for building user interfaces. ReactJS was chosen for its component-based architecture, allowing for the creation of reusable UI components and a dynamic, responsive user experience.
 
@@ -58,6 +60,7 @@ Technologies Used:
 •	Hibernate: For Object-Relational Mapping (ORM), Hibernate was utilized to manage database interactions. Hibernate simplified the process of data handling, ensuring efficient communication between the application and the database.
 
 Database:-
+
 Technology Used:
 •	MySQL: The application relies on MySQL, a robust and widely-used relational database management system. MySQL was chosen for its reliability, performance, and ease of use. It effectively handles the storage, retrieval, and management of invoice data.
 ![Screenshot 2024-07-08 115718](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/ada4de98-5ecd-4bad-b20a-af2d1c9cfb19)
