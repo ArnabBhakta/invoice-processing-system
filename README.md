@@ -1,4 +1,4 @@
-Invoice Processing System Developed by Arnab Kumar Bhakta , Student of Swami Vivekananda University, Dept:- B.Tech CSE, Class Roll :- 002-BCS-2020-016, Registration No:- 002-103-2020-016.
+Invoice Processing System Developed by ARNAB KUMAR BHAKTA , Student of Swami Vivekananda University, Dept:- B.Tech CSE, Class Roll :- 002-BCS-2020-016, Registration No:- 002-103-2020-016.
 
 
 ##Project Description: Invoice Processing System
