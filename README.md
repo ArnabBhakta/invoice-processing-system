@@ -51,12 +51,14 @@ o	Users can easily see whether a bill has been paid or is still outstanding.
 Frontend:-
 
 Technologies Used:
+
 •	ReactJS: The frontend was built using ReactJS, a popular JavaScript library for building user interfaces. ReactJS was chosen for its component-based architecture, allowing for the creation of reusable UI components and a dynamic, responsive user experience.
 
 •	Material-UI: To enhance the visual appeal and ensure a consistent design, Material-UI was integrated into the project. This library provided a range of pre-designed components that follow Google's Material Design principles, ensuring a professional and intuitive interface.
 
 Backend:-
 Technologies Used:
+
 •	Spring Boot: The backend services were developed using Spring Boot, a Java-based framework that simplifies the development of stand-alone, production-grade Spring applications. Spring Boot was selected for its ability to reduce boilerplate code, facilitate easy configuration, and support a wide range of features out-of-the-box.
 
 •	Hibernate: For Object-Relational Mapping (ORM), Hibernate was utilized to manage database interactions. Hibernate simplified the process of data handling, ensuring efficient communication between the application and the database.
