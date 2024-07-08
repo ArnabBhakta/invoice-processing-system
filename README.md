@@ -37,6 +37,8 @@ o	Users can easily see whether a bill has been paid or is still outstanding.
 o	Once an invoice is paid, users can mark it as cleared by clicking the "Mark Done" button.
 o	This updates the status of the invoice and removes it from the pending list, ensuring accurate and up-to-date records.
 
+
+
 ![Screenshot 2024-07-08 115537](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/1c6a5d2b-67ca-49ae-a5cf-a2feb2874f79)
 ![Screenshot 2024-07-08 115306](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/7e44f202-e891-46d9-9714-e9e270aa47dc)
 
