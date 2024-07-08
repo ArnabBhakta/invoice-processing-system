@@ -61,7 +61,8 @@ Technology Used:
 ![Screenshot 2024-07-08 115718](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/ada4de98-5ecd-4bad-b20a-af2d1c9cfb19)
 
 
-Conclusion
+
+Conclusion:-
 The Invoice Processing System is a well-rounded solution that leverages modern technologies to improve the efficiency of handling invoices. By combining ReactJS and Material-UI on the frontend with Spring Boot and Hibernate on the backend, and using MySQL for data management, this project ensures a seamless, efficient, and user-friendly experience.
 
 
