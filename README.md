@@ -2,7 +2,8 @@ Invoice Processing System - Frontend using:- React or Material UI and Backend us
 Developed by - Name:- Arnab Kumar Bhakta , Dept:- B.Tech CSE, Class Roll :- 002-BCS-2020-016, Registration No:- 002-103-2020-016
 
 
-Project Description: Invoice Processing System
+
+##Project Description: Invoice Processing System
 
 Overview:
 The Invoice Processing System is a sophisticated application designed to automate and streamline the management of invoices. This system enables users to track pending invoices, manage vendor information, and keep detailed records of purchased products, amounts, and payment statuses.
@@ -37,7 +38,6 @@ o	Once an invoice is paid, users can mark it as cleared by clicking the "Mark Do
 o	This updates the status of the invoice and removes it from the pending list, ensuring accurate and up-to-date records.
 
 ![Screenshot 2024-07-08 115537](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/1c6a5d2b-67ca-49ae-a5cf-a2feb2874f79)
-![Screenshot 2024-07-08 115201](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/22985207-b0f1-4d7d-bfcc-525aa414d570)
 ![Screenshot 2024-07-08 115306](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/7e44f202-e891-46d9-9714-e9e270aa47dc)
 
 
@@ -58,6 +58,8 @@ Technologies Used:
 Database:-
 Technology Used:
 •	MySQL: The application relies on MySQL, a robust and widely-used relational database management system. MySQL was chosen for its reliability, performance, and ease of use. It effectively handles the storage, retrieval, and management of invoice data.
+![Screenshot 2024-07-08 115718](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/ada4de98-5ecd-4bad-b20a-af2d1c9cfb19)
+
 
 Conclusion
 The Invoice Processing System is a well-rounded solution that leverages modern technologies to improve the efficiency of handling invoices. By combining ReactJS and Material-UI on the frontend with Spring Boot and Hibernate on the backend, and using MySQL for data management, this project ensures a seamless, efficient, and user-friendly experience.
