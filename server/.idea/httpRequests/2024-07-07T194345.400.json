@@ -1,0 +1,6 @@
+{
+  "timestamp": "2024-07-07T14:13:45.397+00:00",
+  "status": 400,
+  "error": "Bad Request",
+  "path": "/invoice"
+}

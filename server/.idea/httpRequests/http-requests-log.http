@@ -1,0 +1,10 @@
+POST http://localhost:8090/invoice
+User-Agent: IntelliJ HTTP Client/IntelliJ IDEA 2024.1.4
+Accept-Encoding: br, deflate, gzip, x-gzip
+Accept: */*
+content-length: 0
+
+<> 2024-07-07T194345.400.json
+
+###
+
