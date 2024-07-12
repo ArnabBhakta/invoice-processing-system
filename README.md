@@ -51,20 +51,25 @@ Technologies Used:
 
 •	ReactJS: The frontend was built using ReactJS, a popular JavaScript library for building user interfaces. ReactJS was chosen for its component-based architecture, allowing for the creation of reusable UI components and a dynamic, responsive user experience.
 
-•	Material-UI: To enhance the visual appeal and ensure a consistent design, Material-UI was integrated into the project. This library provided a range of pre-designed components that follow Google's Material Design principles, ensuring a professional and intuitive interface.
+•	Material-UI: MUI is a CSS-based react framework, To enhance the visual appeal and ensure a consistent design, Material-UI was integrated into the project. This library provides a range of pre-designed components that follow Google's Material Design principles, ensuring a professional and intuitive interface.
 
 Backend:-
 Technologies Used:
 
-•	Spring Boot: The backend services were developed using Spring Boot, a Java-based framework that simplifies the development of stand-alone, production-grade Spring applications. Spring Boot was selected for its ability to reduce boilerplate code, facilitate easy configuration, and support a wide range of features out-of-the-box.
+•	Spring Boot: The backend services were developed using Spring Boot, a Java-based framework that simplifies the development of stand-alone, production-grade Spring applications. Spring Boot was selected for its ability to reduce boilerplate code, facilitate easy configuration, and support a wide range of features out of the box.
 
 •	Hibernate: For Object-Relational Mapping (ORM), Hibernate was utilized to manage database interactions. Hibernate simplified the process of data handling, ensuring efficient communication between the application and the database.
+
+#DEPENDENCIES USED:-
+	1. SPRING WEB- We can build web-based applications using Spring-Web, it's given a server called TOMCAT, TOMCAT server is where our backend code runs.
+	2. JPA(JAVA PERSISTENCE API):- JPA Where we Execute MySql with the help of Hibernete, Hibernete has a library called JPA library.
+	3. MYSQL:- MySql library java // JDBC
 
 Database:-
 
 Technology Used:
 
-•	MySQL: The application relies on MySQL, a robust and widely-used relational database management system. MySQL was chosen for its reliability, performance, and ease of use. It effectively handles the storage, retrieval, and management of invoice data.
+•	MySQL: The application relies on MySQL, a robust and widely used relational database management system. MySQL was chosen for its reliability, performance, and ease of use. It effectively handles the storage, retrieval, and management of invoice data.
 
 ![Screenshot 2024-07-08 115718](https://github.com/ArnabBhakta/invoice-processing-system/assets/146560599/ada4de98-5ecd-4bad-b20a-af2d1c9cfb19)
 
