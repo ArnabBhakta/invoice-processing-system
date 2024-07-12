@@ -61,9 +61,12 @@ Technologies Used:
 •	Hibernate: For Object-Relational Mapping (ORM), Hibernate was utilized to manage database interactions. Hibernate simplified the process of data handling, ensuring efficient communication between the application and the database.
 
 #DEPENDENCIES USED:-
-	1. SPRING WEB- We can build web-based applications using Spring-Web, it's given a server called TOMCAT, TOMCAT server is where our backend code runs.
-	2. JPA(JAVA PERSISTENCE API):- JPA Where we Execute MySql with the help of Hibernete, Hibernete has a library called JPA library.
-	3. MYSQL:- MySql library java // JDBC
+		
+	 1. SPRING WEB- We can build web-based applications using Spring-Web, it's given a server called TOMCAT, TOMCAT server is where our backend code runs.
+		
+	 2. JPA(JAVA PERSISTENCE API):- JPA Where we Execute MySql with the help of Hibernete, Hibernete has a library called JPA library.
+	
+	 3. MYSQL:- MySql library java // JDBC
 
 Database:-
 
