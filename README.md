@@ -66,7 +66,7 @@ Technologies Used:
 		
 	 2. JPA(JAVA PERSISTENCE API):- JPA Where we Execute MySql with the help of Hibernete, Hibernete has a library called JPA library.
 	
-	 3. MYSQL:- MySql library java // JDBC
+	 3. MYSQL:- MySql library java // JDBC ( Java Database Connectivity )
 
 Database:-
 
