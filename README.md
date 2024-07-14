@@ -18,18 +18,17 @@ o	Users can track from which vendor a product was purchased, ensuring accurate r
 
 3.	Product Details:
 o	For each invoice, the system records the specific product purchased.
-o	Users can see what product was bought, including the description, quantity, and price.
+o	Users can see what product was bought, including price.
 
 4.	Financial Tracking:
-o	The application records the amount of each product purchased, providing a clear financial overview.
-o	Users can track the total cost associated with each invoice.
+o	The application records the amount of each product purchased.
+
 
 5.	Purchase Date Tracking:
-o	Each invoice includes the purchase date, allowing users to sort and filter invoices based on when the transaction occurred.
-o	This feature aids in timely follow-ups and financial planning.
+o	Each invoice includes the purchase date.
 
 6.	Invoice Status:
-o	The system clearly indicates the status of each invoice (e.g., pending, cleared).
+o	The system indicates the status of each invoice (e.g., pending, cleared).
 o	Users can easily see whether a bill has been paid or is still outstanding.
 
 7.	Mark as Done:
